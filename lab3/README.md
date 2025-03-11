@@ -1,5 +1,5 @@
 # Lab 3
-For this lab we are going to work with dictionaries to analyze some historical U.S. stock market data. This will test your ability to work with dictionaries and lists (or tuples). You may use your full knowledge of Python to solve each question. Remember that you have the following at your disposal:
+For this lab we are going to work with dictionaries to analyze some fake retail data from a small electronics store. This will test your ability to work with dictionaries and lists (or tuples). You may use your full knowledge of Python to solve each question. Remember that you have the following at your disposal:
 - loops (for/while)
 - conditional statements (if/elif/else)
 - functions (create your own `def`, use built-ins)
@@ -29,7 +29,7 @@ Once you are able to run `lab3_template.py`, save it as your lab submission file
 You may modify the template code as you see fit, just do not modify `retail_data.py`, or modify the `import` statement on line 1 of `lab3_template.py`. You may work with the global `RETAIL_ITEMS` variable as is, but I have provided some code that converts it into a nested dictionary, if that's easier for you to use.
 After completing the following, and checking to make sure your code runs, submit your `lastname_firstname_lab3.py` file on Brightspace.
 
-## Stock Analysis Questions
+## Retail Analysis Questions
 
 You can now answer the questions below, and attach this `lastname_firstname_lab3.py` file in your submission. **For any calculations with prices, round to two decimal places, and include dollar signs**. Each question is worth up to 5 points.
 
