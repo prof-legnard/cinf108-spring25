@@ -1,4 +1,4 @@
-# Lab 5
+# Lab 6
 
 For this week's lab we are going to make some basic art in python  using the `turtle` library. You can install `turtle` with:
 ```bash
