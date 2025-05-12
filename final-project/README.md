@@ -26,7 +26,7 @@ You should be able to interact with this TODO list utility from the command line
 ### Clean Code Requirements
 1. Use `Error` statements of various types and `print()` statements to provide proper feedback to the users. 
 2. Apply sufficient comments to your code explaining how it works.
-3. Name your submission `.py` file `lastname_firstname_todo.py`. For your submission, post your final .py file on your github and send me the link in the Brightspace Submission.
+3. Name your submission `.py` file `lastname_firstname_todo.py`. For your submission, post your final .py file in your Brightspace Submission, or if you have a github, you may upload it to a repository and share the link to the code uploaded there!
 
 ### BONUS (10 points)
 Write a class or multiple classes to manage TODO items. Implement methods and attributes to manage writing to your TODO list files, displaying information about TODO items, etc.
